@@ -1,0 +1,58 @@
+14:10:58.805 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - standard_user  and password - secret_sauce
+14:11:00.934 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - expectedProductLabel-Productsand actualProductLabel - Products
+14:31:27.704 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - standard_user  and password - secret_sauce
+14:31:28.987 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - expectedProductLabel-Productsand actualProductLabel - Products
+14:32:53.409 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - standard_user  and password - secret_sauce
+14:32:54.573 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - expectedProductLabel-Productsand actualProductLabel - Products
+14:34:00.938 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - standard_user  and password - secret_sauce
+14:34:01.898 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - expectedProductLabel-Productsand actualProductLabel - Products
+14:34:41.189 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - standard_user1  and password - secret_sauce
+14:56:24.532 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - standard_user1  and password - secret_sauce
+14:58:51.614 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - standard_user  and password - secret_sauce
+14:58:53.047 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - expectedProductLabel-Productsand actualProductLabel - Products
+15:00:00.314 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - standard_user  and password - secret_sauce
+15:00:01.269 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - expectedProductLabel-Productsand actualProductLabel - Products
+15:01:13.479 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - standard_user  and password - secret_sauce
+15:01:14.919 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - expectedProductLabel-Productsand actualProductLabel - Products
+15:07:27.741 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - standard_user  and password - secret_sauce
+15:07:28.589 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - expectedProductLabel-Productsand actualProductLabel - Products
+22:34:27.735 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+22:34:27.757 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - standard_user  and password - secret_sauce
+23:55:32.637 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+23:55:32.737 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - standard_user1  and password - secret_sauce
+23:58:31.811 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+23:58:31.853 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - standard_user1  and password - secret_sauce
+23:59:57.413 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+23:59:57.473 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - standard_user1  and password - secret_sauce
+20:36:45.746 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+20:36:45.895 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - standard_user1  and password - secret_sauce
+20:38:49.566 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+20:38:49.585 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - standard_user1  and password - secret_sauce
+21:06:00.401 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+21:06:00.451 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - standard_user1  and password - secret_sauce
+21:10:38.341 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+21:10:38.365 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - standard_user1  and password - secret_sauce
+21:17:00.736 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+21:17:00.773 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - standard_user1  and password - secret_sauce
+22:11:31.710 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+22:11:31.730 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - standard_user1  and password - secret_sauce
+22:43:53.220 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+22:43:53.271 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - standard_user1  and password - secret_sauce
+22:57:02.463 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+22:57:02.497 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - standard_user1  and password - secret_sauce
+22:59:28.163 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+22:59:28.199 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - standard_user1  and password - secret_sauce
+23:03:16.536 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+23:03:16.560 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - standard_user1  and password - secret_sauce
+14:25:49.415 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+14:25:49.507 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - standard_user  and password - secret_sauce
+14:25:50.613 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - expectedProductLabel-Products and actualProductLabel - Products
+14:27:43.772 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+14:27:43.806 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - standard_user1  and password - secret_sauce
+14:29:21.165 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+14:29:21.189 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - standard_user  and password - secret_sauce
+14:29:22.316 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - expectedProductLabel-Products and actualProductLabel - Products
+14:29:45.910 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+14:29:45.949 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - standard_user  and password - secret_sauce
+14:29:47.028 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - expectedProductLabel-Products and actualProductLabel - Products
+14:30:30.271 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.

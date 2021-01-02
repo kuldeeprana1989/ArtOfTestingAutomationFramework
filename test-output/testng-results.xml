@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-02T14:30:29 IST" name="Default suite" finished-at="2021-01-02T14:30:32 IST" duration-ms="3220">
+    <groups>
+    </groups>
+    <test started-at="2021-01-02T14:30:29 IST" name="Default test" finished-at="2021-01-02T14:30:32 IST" duration-ms="3220">
+      <class name="com.artoftesting.test.SauceDemoLoginTest">
+        <test-method is-config="true" signature="suiteSetup()[pri:0, instance:com.artoftesting.test.SauceDemoLoginTest@5cdec700]" started-at="2021-01-02T14:30:22 IST" name="suiteSetup" finished-at="2021-01-02T14:30:29 IST" duration-ms="6760" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteSetup -->
+        <test-method is-config="true" signature="loadBaseUrl(java.lang.reflect.Method)[pri:0, instance:com.artoftesting.test.SauceDemoLoginTest@5cdec700]" started-at="2021-01-02T14:30:29 IST" name="loadBaseUrl" finished-at="2021-01-02T14:30:30 IST" duration-ms="649" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.artoftesting.test.SauceDemoLoginTest.loginTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadBaseUrl -->
+        <test-method signature="loginTest()[pri:0, instance:com.artoftesting.test.SauceDemoLoginTest@5cdec700]" started-at="2021-01-02T14:30:30 IST" name="loginTest" finished-at="2021-01-02T14:30:31 IST" duration-ms="1046" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="screenshotAndDeleteCookies(org.testng.ITestResult)[pri:0, instance:com.artoftesting.test.SauceDemoLoginTest@5cdec700]" started-at="2021-01-02T14:30:31 IST" name="screenshotAndDeleteCookies" finished-at="2021-01-02T14:30:31 IST" duration-ms="18" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginTest status=SUCCESS method=SauceDemoLoginTest.loginTest()[pri:0, instance:com.artoftesting.test.SauceDemoLoginTest@5cdec700] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshotAndDeleteCookies -->
+        <test-method is-config="true" signature="loadBaseUrl(java.lang.reflect.Method)[pri:0, instance:com.artoftesting.test.SauceDemoLoginTest@5cdec700]" started-at="2021-01-02T14:30:32 IST" name="loadBaseUrl" finished-at="2021-01-02T14:30:32 IST" duration-ms="151" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.artoftesting.test.SauceDemoLoginTest.tempTest(java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadBaseUrl -->
+        <test-method signature="tempTest(java.lang.String, java.lang.String)[pri:0, instance:com.artoftesting.test.SauceDemoLoginTest@5cdec700]" started-at="2021-01-02T14:30:32 IST" name="tempTest" data-provider="tempTestData" finished-at="2021-01-02T14:30:32 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pwd1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tempTest -->
+        <test-method is-config="true" signature="screenshotAndDeleteCookies(org.testng.ITestResult)[pri:0, instance:com.artoftesting.test.SauceDemoLoginTest@5cdec700]" started-at="2021-01-02T14:30:32 IST" name="screenshotAndDeleteCookies" finished-at="2021-01-02T14:30:32 IST" duration-ms="13" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=tempTest status=SUCCESS method=SauceDemoLoginTest.tempTest(java.lang.String, java.lang.String)[pri:0, instance:com.artoftesting.test.SauceDemoLoginTest@5cdec700] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshotAndDeleteCookies -->
+        <test-method is-config="true" signature="loadBaseUrl(java.lang.reflect.Method)[pri:0, instance:com.artoftesting.test.SauceDemoLoginTest@5cdec700]" started-at="2021-01-02T14:30:32 IST" name="loadBaseUrl" finished-at="2021-01-02T14:30:32 IST" duration-ms="152" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.artoftesting.test.SauceDemoLoginTest.tempTest(java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadBaseUrl -->
+        <test-method signature="tempTest(java.lang.String, java.lang.String)[pri:0, instance:com.artoftesting.test.SauceDemoLoginTest@5cdec700]" started-at="2021-01-02T14:30:32 IST" name="tempTest" data-provider="tempTestData" finished-at="2021-01-02T14:30:32 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pwd2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tempTest -->
+        <test-method is-config="true" signature="screenshotAndDeleteCookies(org.testng.ITestResult)[pri:0, instance:com.artoftesting.test.SauceDemoLoginTest@5cdec700]" started-at="2021-01-02T14:30:32 IST" name="screenshotAndDeleteCookies" finished-at="2021-01-02T14:30:32 IST" duration-ms="25" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=tempTest status=SUCCESS method=SauceDemoLoginTest.tempTest(java.lang.String, java.lang.String)[pri:0, instance:com.artoftesting.test.SauceDemoLoginTest@5cdec700] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshotAndDeleteCookies -->
+        <test-method is-config="true" signature="suiteTearDown()[pri:0, instance:com.artoftesting.test.SauceDemoLoginTest@5cdec700]" started-at="2021-01-02T14:30:32 IST" name="suiteTearDown" finished-at="2021-01-02T14:30:33 IST" duration-ms="949" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteTearDown -->
+      </class> <!-- com.artoftesting.test.SauceDemoLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
