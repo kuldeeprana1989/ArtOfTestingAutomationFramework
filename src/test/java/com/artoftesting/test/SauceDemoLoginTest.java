@@ -43,7 +43,7 @@ public class SauceDemoLoginTest extends TestBase{
 		return testData;
 	}
 	
-	//Temporary test to demo data provider functionality
+	//Test to demo data provider functionality
 	@Test(dataProvider = "tempTestData")
 	public void tempTest(String userId, String pwd) {
 		System.out.println(userId + " - " + pwd);

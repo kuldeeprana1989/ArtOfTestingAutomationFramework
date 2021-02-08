@@ -18,16 +18,11 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import org.testng.ITestContext;
 import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
-
-import com.relevantcodes.extentreports.ExtentReports;
-import com.relevantcodes.extentreports.ExtentTest;
-import com.relevantcodes.extentreports.LogStatus;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
@@ -45,12 +40,10 @@ public class TestBase {
 	protected static WebDriver driver;
 	public static Properties envConfig;
 	WebDriverWait wait;
-	public static ExtentReports extent;
-	protected ExtentTest extentLogger;
 	
 	
 	//Environment value fetched from POM with 'careersIn' and 'production' being the valid values 
-	public static final String ENV = System.getProperty("env", "production");
+	public static final String ENV = System.getProperty("env", "Production");
 
 	//BROWSER value fetched from POM with Chrome being the default value 
 	private static final String BROWSER = System.getProperty("browser", "Chrome");
@@ -60,7 +53,7 @@ public class TestBase {
 	@BeforeSuite
     public void suiteSetup() throws Exception {
 		
-		//Browser configuration - can add more browsers and remoter driver here
+		//Browser configuration - can add more browsers and remote driver here
 		if (BROWSER.equals("Firefox")) {
 			WebDriverManager.firefoxdriver().setup(); //can also use set property method for browser executables
 			driver = new FirefoxDriver();

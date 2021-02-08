@@ -5,24 +5,19 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 
-import org.apache.poi.xssf.usermodel.XSSFCell;
-import org.apache.poi.xssf.usermodel.XSSFRow;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 public class ExcelUtil {
 	private static XSSFSheet ExcelWSheet;
 	private static XSSFWorkbook ExcelWBook;
-	private static XSSFCell Cell;
-	private static XSSFRow Row;
 
 	public static String[][] getExcelDataIn2DArray(String Path,String SheetName) throws Exception {
 		String[][] excelDataArray = null;
 		try {
-			// Open the Excel file
+			
 			FileInputStream ExcelFile = new FileInputStream(Path);
 	
-			// Access the required test data sheet
 			ExcelWBook = new XSSFWorkbook(ExcelFile);
 			ExcelWSheet = ExcelWBook.getSheet(SheetName);
 

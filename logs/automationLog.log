@@ -1,2 +1,5 @@
 14:30:30.311 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - standard_user  and password - secret_sauce
 14:30:31.293 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - expectedProductLabel-Products and actualProductLabel - Products
+12:19:44.146 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - Verifying successful login.
+12:19:44.175 [main] INFO  com.artoftesting.pages.SauceDemoLoginPage - Logging with username - standard_user  and password - secret_sauce
+12:19:45.516 [main] INFO  com.artoftesting.test.SauceDemoLoginTest - expectedProductLabel-Products and actualProductLabel - Products
